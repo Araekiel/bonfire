@@ -1,0 +1,19 @@
+{
+  "name": "bonfire",
+  "version": "0.0.1",
+  "description": "A real-time chat app built with Node.js, Electron, TypeScript and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Araekiel/bonfire.git"
+  },
+  "author": "Araekiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Araekiel/bonfire/issues"
+  },
+  "homepage": "https://github.com/Araekiel/bonfire#readme"
+}
