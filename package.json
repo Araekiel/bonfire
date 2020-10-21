@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Araekiel/bonfire/issues"
   },
-  "homepage": "https://github.com/Araekiel/bonfire#readme"
+  "homepage": "https://github.com/Araekiel/bonfire#readme",
+  "dependencies": {
+    "electron": "^10.1.4"
+  }
 }
